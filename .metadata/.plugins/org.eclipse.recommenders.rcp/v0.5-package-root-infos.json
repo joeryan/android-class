@@ -1,0 +1,80 @@
+[
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-05-21T21:19:22.332+04:30",
+    "location": "C:\\Users\\Joe\\Documents\\GitHub\\android-class\\MyFirstApp\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ded9acc6a9792b8f1afc470f0c9cd36d178914cd",
+    "jarFileModificationDate": "2014-05-20T00:06:30.387+04:30",
+    "location": "C:\\Users\\Joe\\Documents\\GitHub\\android-class\\appcompat_v7\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v4",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "61797b27e59a89da9196822239325afcb090f9b2",
+    "jarFileModificationDate": "2013-12-23T14:07:16+04:30",
+    "location": "C:\\Users\\Joe\\Documents\\GitHub\\android-class\\TheAnswer\\libs\\android-support-v4.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android-support-v7-appcompat",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "21297ae2bf22a0ce81c9b59992cf0693eec45d5b",
+    "jarFileModificationDate": "2014-05-20T00:08:16.907+04:30",
+    "location": "C:\\Users\\Joe\\Documents\\GitHub\\android-class\\appcompat_v7\\libs\\android-support-v7-appcompat.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "android",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7f972d2aa0fcb741fc84a9a10c98555f6f431a7a",
+    "jarFileModificationDate": "2014-05-19T23:13:42.651+04:30",
+    "location": "C:\\Program Files (x86)\\Android\\android-sdk\\platforms\\android-19\\android.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "appcompat_v7",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2a3c1646acbbe82c125c249509e7c5ba3d7ed179",
+    "jarFileModificationDate": "2014-05-21T21:22:06.456+04:30",
+    "location": "C:\\Users\\Joe\\Documents\\GitHub\\android-class\\appcompat_v7\\bin\\appcompat_v7.jar",
+    "javaRuntime": false
+  }
+]
