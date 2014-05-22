@@ -9,8 +9,69 @@
     tools:context="us.clanryan.coursera.myfirstapp.MainActivity$PlaceholderFragment" >
 
     <TextView
+        android:id="@+id/textView1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="@string/hello_world" />
+        android:text="@string/hello_world"
+        android:textSize="@dimen/abc_action_bar_title_text_size" />
+
+    <Button
+        android:id="@+id/bUpdate"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/bGreet"
+        android:layout_alignParentBottom="true"
+        android:layout_marginBottom="20dp"
+        android:text="@string/update" />
+
+    <CheckBox
+        android:id="@+id/chkGreetUser"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/bGreet"
+        android:layout_alignBottom="@+id/bGreet"
+        android:layout_toRightOf="@+id/bGreet"
+        android:text="@string/check_box" />
+
+    <EditText
+        android:id="@+id/outTextMsg"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignLeft="@+id/textView1"
+        android:layout_below="@+id/textView1"
+        android:layout_marginTop="30dp"
+        android:ems="10"
+        android:inputType="textShortMessage" />
+
+    <Button
+        android:id="@+id/bGreet"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bUpdate"
+        android:layout_alignLeft="@+id/outTextMsg"
+        android:layout_marginBottom="44dp"
+        android:text="@string/hello" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bGreet"
+        android:layout_alignLeft="@+id/bGreet"
+        android:layout_marginBottom="14dp"
+        android:ems="10"
+        android:hint="@string/name" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/editTextMessage"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_above="@+id/bUpdate"
+        android:layout_alignLeft="@+id/bGreet"
+        android:ems="10"
+        android:hint="@string/message" />
 
 </RelativeLayout>

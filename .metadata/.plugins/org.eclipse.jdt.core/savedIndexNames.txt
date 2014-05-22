@@ -1,8 +1,6 @@
 INDEX VERSION 1.126+C:\Users\Joe\Documents\GitHub\android-class\.metadata\.plugins\org.eclipse.jdt.core
 1284074322.index
-1212822213.index
 885526219.index
-3643746358.index
 3441175534.index
 2444536220.index
 120032044.index
