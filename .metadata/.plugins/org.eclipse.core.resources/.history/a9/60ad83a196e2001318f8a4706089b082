@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PaceConverter</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="min_per_mile">Minutes per Mile</string>
+    <string name="MPH">Miles Per Hour</string>
+    <string name="Min_per_KM">Minutes per KM</string>
+    <string name="KM_per_hour">KM per Hour:</string>
+    <string name="total_time">Total run time:</string>
+    <string name="total_distance">Total run distance:</string>
+    <string name="clear">Clear</string>
+
+</resources>

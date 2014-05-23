@@ -1,0 +1,17 @@
+1400861510701	Extracts string 'null' into R.string.min_per_mile
+1400861634409	Extracts string 'null' into R.string.MPH
+1400861654091	Extracts string 'null' into R.string.Min_per_KM
+1400861814042	Rename field 'textView4'
+1400861848217	Extracts string 'null' into R.string.KM_per_hour
+1400861891629	Rename field 'textView5'
+1400861908454	Extracts string 'null' into R.string.total_time
+1400862006567	Rename field 'textView6'
+1400862029644	Extracts string 'null' into R.string.total_distance
+1400862091732	Rename field 'button1'
+1400862106818	Extracts string 'null' into R.string.clear
+1400862218172	Rename field 'button2'
+1400862233445	Extracts string 'null' into R.string.calc
+1400862267509	Rename field 'checkBox1'
+1400862280539	Extracts string 'null' into R.string.miles
+1400862302091	Rename field 'checkBox2'
+1400862329857	Extracts string 'null' into R.string.kilometers
